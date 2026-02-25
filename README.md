@@ -1,4 +1,4 @@
-# HECD 3D Computer Vision: Multi-Camera Human Pose Estimation & 3D Reconstruction
+# 3D Computer Vision: Multi-Camera Human Pose Estimation & 3D Reconstruction
 
 A step-by-step tutorial series for extracting 2D human pose from synchronized multi-camera video, matching identities across views, and reconstructing 3D skeletons via triangulation.
 
